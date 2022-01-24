@@ -1,6 +1,6 @@
 ********** SPOTIFY DASHBOARD **********
 
----- To correctly open the dashboard, fonts need to be installed. Fonts are located un the folder info/letras. If you don't know how to do it, check out the link below. ----
+---- To correctly open the dashboard, fonts need to be installed. Fonts are located in the folder info/letras. If you don't know how to do it, check out the link below. ----
 
 https://support.microsoft.com/en-us/office/add-a-font-b7c5f17c-4426-4b53-967f-455339c564c1
 
